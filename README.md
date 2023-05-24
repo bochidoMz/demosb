@@ -7,5 +7,5 @@ Proyecto en JAVA con spring Boot
 
 ## Descripcion
 
-### Registra a todos habitantes de un barrio en especìfico y manda un comunicado para notificar, alertar a los habitantes sobre alguna situacion reciento o de un evento a realizarse
+Registra a los residentes de un barrio específico y envía comunicados para notificar y alertar a los habitantes sobre situaciones recientes o eventos próximos, con el fin de monitorear y coordinar sus actividades.
 
