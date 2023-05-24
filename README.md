@@ -3,6 +3,9 @@ Proyecto en JAVA con spring Boot
 
 ## Autor
 
-### Descripcion: Registra a los habitantes de un barrio y manda un comunicado para notificar o alertar alos habitantes sobre alguna situacion
-
 ### Erick Maza [Repositorio](https://github.com/bochidomz)
+
+##Descripcion
+
+### Registra a todos habitantes de un barrio en especìfico y manda un comunicado para notificar, alertar a los habitantes sobre alguna situacion reciento o de un evento a realizarse
+
