@@ -1,5 +1,9 @@
 package ec.edu.insteclrg.persistence;
 
-public interface ComunicadoRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import ec.edu.insteclrg.domain.Comunicado;
+
+public interface ComunicadoRepository extends JpaRepository<Comunicado, Long>{
 
 }
